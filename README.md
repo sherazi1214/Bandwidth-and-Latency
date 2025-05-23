@@ -28,10 +28,10 @@ Latency	Experience
 20–100 ms	Good for most tasks
 > 100 ms	Noticeable delay or lag
 
-Summary Table
-**Feature-------------------	Bandwidth--------------------	Latency**
-Definition	----------------Max data transfer rate	------Delay in data transmission
-Measured In---------------	Mbps, Gbps-------------------	ms (milliseconds)
-Affects-------------------	Amount of data sent at once--	Speed of communication
-Analogy-------------------	Width of a highway	----------Travel time on the highway
+Summary Table <br>
+**Feature-------------------	Bandwidth--------------------	Latency** <br>
+Definition	----------------Max data transfer rate	------Delay in data transmission <br>
+Measured In---------------	Mbps, Gbps-------------------	ms (milliseconds) <br>
+Affects-------------------	Amount of data sent at once--	Speed of communication <br>
+Analogy-------------------	Width of a highway	----------Travel time on the highway <br>
 Goal----------------------	Higher is better	------------Lower is better
